@@ -1,19 +1,17 @@
 Technologies Used
-Framework: ASP.NET Core MVC (likely .NET 8 based on net8.0 output)
+Framework: ASP.NET Core MVC (.NET 8 )
 
 Language: C#
 
 Architecture: MVC (Model-View-Controller)
 
-ORM: Entity Framework Core (indicated by the Migrations folder)
+Database: Entity Framework Core (ORM)(Code First Approach)
 
 Dependency Injection: Built-in ASP.NET Core DI (evident from Service and Repository folders)
 
 Frontend: Razor Views (from the Views folder)
 
 Configuration: appsettings.json
-
-Static Files: Served via wwwroot
 
 📁 Key Project Folders
 Controllers/
